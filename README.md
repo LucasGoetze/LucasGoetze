@@ -1,16 +1,14 @@
-## Hi there 👋
+👨🏻‍💻 SOBRE MIM
 
-<!--
-**LucasGoetze/LucasGoetze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Fascinado por inovação e pelas conexões entre hardware e software.
+🛠️ Encaro desafios como oportunidades para criar, otimizar e evoluir soluções técnicas.
+🎓 Sou Engenheiro de Controle e Automação.
+💬 Trabalho principalmente com Python e C/C++ — linguagens que utilizo para automação, scripts técnicos, sistemas embarcados e desenvolvimento de firmware e softwares.
+📚 Tenho grande interesse por sistemas embarcados, dados, IoT, eletrônica e programação — sempre em busca de novos aprendizados.
 
-Here are some ideas to get you started:
+🛠 Tecnologias:
+C/C++
+Python
+Desenvolvimento de PCB
+Sistemas embarcados e microcontroladores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
