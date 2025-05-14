@@ -11,8 +11,12 @@
 📚 Tenho grande interesse por sistemas embarcados, dados, IoT, eletrônica e programação — sempre em busca de novos aprendizados.
 
 🛠 Tecnologias:
+
 C/C++
+
 Python
+
 Desenvolvimento de PCB
+
 Sistemas embarcados e microcontroladores
 
